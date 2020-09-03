@@ -1,0 +1,2 @@
+# Bank-Loan-Default-Prediction
+Predictive analytics encompasses a variety of statistical techniques from data mining, predictive modelling, and machine learning, that analyze current and historical facts to make predictions about future or otherwise unknown events. Loans default can act as detrimental for the bank causing huge losses so predictive modelling is tool that can be put to use in predicting behavior of the customers beforehand.
